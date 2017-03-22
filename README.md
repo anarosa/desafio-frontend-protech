@@ -1,5 +1,10 @@
-# Desafio Front-end - Protech Solutions
+# Desafio Front-end  | Protech Solutions
 
+#### Dependências:
+node.js e npm
+```
+npm install
+```
 ## Criar interface de galeria de cards responsiva.
 Cada card deve seguir a proposta de design apresentada nas imagens de exemplo, devendo conter também 
 dois botões para adicionar um novo card irmão e remover o card. A galeria deve conter também 
